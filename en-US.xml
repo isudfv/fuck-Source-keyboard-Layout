@@ -1,0 +1,9 @@
+<gs:GlobalizationServices xmlns:gs="urn:longhornGlobalizationUnattend">
+    <gs:UserList><gs:User UserID="Current"/></gs:UserList>
+    <gs:InputPreferences>
+        <!--add en-US keyboard input-->
+        <gs:InputLanguageID Action="add" ID="0409:00000409"/>
+        <!--remove en-US keyboard input-->
+        <gs:InputLanguageID Action="remove" ID="0409:00000409"/>
+    </gs:InputPreferences>
+</gs:GlobalizationServices>

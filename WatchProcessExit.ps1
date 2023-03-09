@@ -1,0 +1,1 @@
+Start-Process -FilePath "C:/Users/isudfv/Documents/Powershell Script/WatchProcessExit.exe" -Argumentlist('-t csgo.exe r5apex.exe', '-s "C:/Users/isudfv/Documents/Powershell Script/Delete en-US Layout.ps1"') -WindowStyle Hidden
